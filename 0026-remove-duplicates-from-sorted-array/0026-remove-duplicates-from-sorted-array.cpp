@@ -8,7 +8,7 @@ public:
     {
         if (nums[i]!=nums[j])
         {
-            nums[j+1]=nums[i];
+            swap(nums[j+1],nums[i]);
             j++;
             
         }
