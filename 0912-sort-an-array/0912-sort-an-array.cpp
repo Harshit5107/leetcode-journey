@@ -1,53 +1,46 @@
-void merge(vector<int>& arr,int low,int mid,int high){
+int part(vector<int>& arr,int low,int high){
 
-    vector<int> temp;
-    int left=low;
-    int right=mid+1;
+    int pivot=arr[low];
+    int i=low;
+    int j=high;
 
-    while (left<=mid && right<=high)
+    while (i<j)
     {
-        if (arr[left]<=arr[right])
+        while (arr[i]<=pivot && i<high)
         {
-            temp.push_back(arr[left]);
-            left++;
-        }else{
-            temp.push_back(arr[right]);
-            right++;
+            i++;
+        }
+
+        while (arr[j]>pivot&& j>low)
+        {
+            j--;
+        }
+        
+        if (i<j)
+        {
+            swap(arr[i],arr[j]);
         }
         
     }
-    
-    while (left<=mid)
-    {
-        temp.push_back(arr[left]);
-        left++;
-    }
-    
-    while (right<=high)
-    {
-        temp.push_back(arr[right]);
-        right++;
-    }
-    
-    for (int i = low; i <= high; i++)
-    {
-        arr[i]=temp[i-low];
-    }
-    
 
+    swap(arr[low],arr[j]);
+    return j;
+    
 }
+
 void mergesort(vector<int>& arr,int low,int high){
     
-    if (low>=high)
+    if (low<high)
     {
-        return;
+        int kano=part(arr,low,high);
+        mergesort(arr,low,kano-1);
+        mergesort(arr,kano+1,high);
+
     }
+    
+    
+    
 
-    int mid=low+((high-low)/2);
-
-    mergesort(arr,low,mid);
-    mergesort(arr,mid+1,high); 
-    merge(arr,low,mid,high);
     
 }
 
