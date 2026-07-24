@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Harshit5107/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit5107/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit5107/leetcode-journey/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
