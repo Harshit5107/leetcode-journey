@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Harshit5107/leetcode-journey/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Harshit5107/leetcode-journey/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Harshit5107/leetcode-journey/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Harshit5107/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harshit5107/leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0088-merge-sorted-array) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Harshit5107/leetcode-journey/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
