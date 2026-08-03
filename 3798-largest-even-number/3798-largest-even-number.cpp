@@ -14,12 +14,8 @@ public:
             }
             i--;
         }
-        string k="";
-        for(int j=0;j<=ans;j++){
+        
 
-            k+=s[j];
-        }
-
-        return k;
+        return s.substr(0,ans+1);
     }
 };
