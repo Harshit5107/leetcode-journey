@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Harshit5107/leetcode-journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
+| [3798-largest-even-number](https://github.com/Harshit5107/leetcode-journey/tree/master/3798-largest-even-number) |
 ## Bit Manipulation
 |  |
 | ------- |
