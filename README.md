@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Harshit5107/leetcode-journey/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Harshit5107/leetcode-journey/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
