@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Harshit5107/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit5107/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit5107/leetcode-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Harshit5107/leetcode-journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit5107/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshit5107/leetcode-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Harshit5107/leetcode-journey/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Harshit5107/leetcode-journey/tree/master/0704-binary-search) |
 ## String
 |  |
