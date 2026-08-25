@@ -1,17 +1,23 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        
-        set<int> s(nums.begin(),nums.end());
+        map<int,int> m;
 
-        int i=k;
-        int t=1;
+        for(int i=0;i<nums.size();i++){
+            m[nums[i]]++;
+        }
+
+        
+        int temp=k;
+        int n=2;
 
         while(true){
 
-            if(s.count(i*t)==0) return i*t;
-            else{
-                t++;
+            if(m.find(temp)==m.end()){
+                return temp;
+            }else{
+                temp=n*k;
+                n++;
             }
         }
 
