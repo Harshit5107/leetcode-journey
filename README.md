@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Harshit5107/leetcode-journey/tree/master/0504-base-7) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit5107/leetcode-journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Harshit5107/leetcode-journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [3340-check-balanced-string](https://github.com/Harshit5107/leetcode-journey/tree/master/3340-check-balanced-string) |
 | [3798-largest-even-number](https://github.com/Harshit5107/leetcode-journey/tree/master/3798-largest-even-number) |
 | [3931-check-adjacent-digit-differences](https://github.com/Harshit5107/leetcode-journey/tree/master/3931-check-adjacent-digit-differences) |
