@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Harshit5107/leetcode-journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit5107/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Harshit5107/leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Harshit5107/leetcode-journey/tree/master/0504-base-7) |
+| [0771-jewels-and-stones](https://github.com/Harshit5107/leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit5107/leetcode-journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Harshit5107/leetcode-journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [3340-check-balanced-string](https://github.com/Harshit5107/leetcode-journey/tree/master/3340-check-balanced-string) |
