@@ -27,7 +27,6 @@ public:
             }
         }
 
-        sort(critical.begin(),critical.end());
 
         if(critical.size()<2){
             return kano;
