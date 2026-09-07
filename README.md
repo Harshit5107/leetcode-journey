@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
+| [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3340-check-balanced-string](https://github.com/Harshit5107/leetcode-journey/tree/master/3340-check-balanced-string) |
 | [3798-largest-even-number](https://github.com/Harshit5107/leetcode-journey/tree/master/3798-largest-even-number) |
 | [3931-check-adjacent-digit-differences](https://github.com/Harshit5107/leetcode-journey/tree/master/3931-check-adjacent-digit-differences) |
