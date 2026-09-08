@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Harshit5107/leetcode-journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0189-rotate-array) |
@@ -255,6 +256,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshit5107/leetcode-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
