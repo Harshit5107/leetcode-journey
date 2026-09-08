@@ -1,0 +1,51 @@
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        
+        ListNode* temp1=l1;
+        ListNode* temp2=l2;
+        ListNode* dummynode=new ListNode(-1);
+        ListNode* curr=dummynode;
+        int carry=0;
+        int sum;
+
+        while (temp1!=nullptr || temp2!=nullptr)
+        {
+            sum=carry;
+            if (temp1)
+            {
+                sum+=temp1->val;
+            }
+            
+            if (temp2)
+            {
+                sum+=temp2->val;
+            }
+            
+            ListNode* newnode=new ListNode(sum%10);
+            carry=sum/10;
+            curr->next=newnode;
+            curr=curr->next;
+
+            if (temp1)
+            {
+                temp1=temp1->next;
+            }
+            if (temp2)
+            {
+                temp2=temp2->next;
+            }
+            
+        }
+
+        if (carry)
+        {
+            ListNode* kano=new ListNode(carry);
+            curr->next=kano;
+        }
+        
+        
+        
+        return dummynode->next;
+    }
+};
