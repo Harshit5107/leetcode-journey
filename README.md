@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit5107/leetcode-journey/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harshit5107/leetcode-journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
