@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/1512-number-of-good-pairs) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit5107/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit5107/leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshit5107/leetcode-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit5107/leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
