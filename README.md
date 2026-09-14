@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Harshit5107/leetcode-journey/tree/master/0504-base-7) |
 | [0771-jewels-and-stones](https://github.com/Harshit5107/leetcode-journey/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Harshit5107/leetcode-journey/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Harshit5107/leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshit5107/leetcode-journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit5107/leetcode-journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshit5107/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshit5107/leetcode-journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
