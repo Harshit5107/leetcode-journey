@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Harshit5107/leetcode-journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harshit5107/leetcode-journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
