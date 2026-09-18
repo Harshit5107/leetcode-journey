@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Harshit5107/leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit5107/leetcode-journey/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harshit5107/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3959-check-good-integer](https://github.com/Harshit5107/leetcode-journey/tree/master/3959-check-good-integer) |
 ## Prefix Sum
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshit5107/leetcode-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harshit5107/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
