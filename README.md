@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Harshit5107/leetcode-journey/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1408-string-matching-in-an-array) |
 ## Tree
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit5107/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
