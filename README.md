@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit5107/leetcode-journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
