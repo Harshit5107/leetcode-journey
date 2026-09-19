@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshit5107/leetcode-journey/tree/master/2104-sum-of-subarray-ranges) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Harshit5107/leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Harshit5107/leetcode-journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harshit5107/leetcode-journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harshit5107/leetcode-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
