@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3340-check-balanced-string](https://github.com/Harshit5107/leetcode-journey/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Harshit5107/leetcode-journey/tree/master/3798-largest-even-number) |
 | [3931-check-adjacent-digit-differences](https://github.com/Harshit5107/leetcode-journey/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit5107/leetcode-journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshit5107/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3498-reverse-degree-of-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Harshit5107/leetcode-journey/tree/master/3959-check-good-integer) |
 ## Prefix Sum
 |  |
