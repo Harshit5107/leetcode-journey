@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Harshit5107/leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harshit5107/leetcode-journey/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
+| [0942-di-string-match](https://github.com/Harshit5107/leetcode-journey/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Harshit5107/leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/Harshit5107/leetcode-journey/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Harshit5107/leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Harshit5107/leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshit5107/leetcode-journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0942-di-string-match](https://github.com/Harshit5107/leetcode-journey/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit5107/leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit5107/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/0402-remove-k-digits) |
+| [0942-di-string-match](https://github.com/Harshit5107/leetcode-journey/tree/master/0942-di-string-match) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
 |  |
