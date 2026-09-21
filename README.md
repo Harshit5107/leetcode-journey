@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harshit5107/leetcode-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harshit5107/leetcode-journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit5107/leetcode-journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
