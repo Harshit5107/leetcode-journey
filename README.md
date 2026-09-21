@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit5107/leetcode-journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Harshit5107/leetcode-journey/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Harshit5107/leetcode-journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/Harshit5107/leetcode-journey/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
