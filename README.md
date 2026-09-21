@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Harshit5107/leetcode-journey/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Harshit5107/leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Harshit5107/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Harshit5107/leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/Harshit5107/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Harshit5107/leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Harshit5107/leetcode-journey/tree/master/1920-build-array-from-permutation) |
