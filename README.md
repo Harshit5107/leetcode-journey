@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Harshit5107/leetcode-journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Harshit5107/leetcode-journey/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/Harshit5107/leetcode-journey/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit5107/leetcode-journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harshit5107/leetcode-journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2315-count-asterisks](https://github.com/Harshit5107/leetcode-journey/tree/master/2315-count-asterisks) |
+| [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Harshit5107/leetcode-journey/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
