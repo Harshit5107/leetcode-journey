@@ -9,15 +9,8 @@ public:
             }
         }
 
-        unordered_set<int> st;
-        for(auto i:m){
-            if(i.second==1){
-                st.insert(i.first);
-            }
-        }
-
         for(int i=0;i<nums.size();i++){
-            if(st.find(nums[i])!=st.end()){
+            if(nums[i]%2==0 && m[nums[i]]==1){
                 return nums[i];
             }
         }
