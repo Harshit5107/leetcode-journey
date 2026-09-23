@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harshit5107/leetcode-journey/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Harshit5107/leetcode-journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -490,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Harshit5107/leetcode-journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
