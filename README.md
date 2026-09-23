@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/Harshit5107/leetcode-journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Harshit5107/leetcode-journey/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/Harshit5107/leetcode-journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Harshit5107/leetcode-journey/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harshit5107/leetcode-journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/Harshit5107/leetcode-journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Harshit5107/leetcode-journey/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
