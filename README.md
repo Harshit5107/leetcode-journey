@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
