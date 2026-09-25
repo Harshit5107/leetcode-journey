@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2643-row-with-maximum-ones](https://github.com/Harshit5107/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Harshit5107/leetcode-journey/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit5107/leetcode-journey/tree/master/2733-neither-minimum-nor-maximum) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshit5107/leetcode-journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Harshit5107/leetcode-journey/tree/master/1672-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/Harshit5107/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
 |  |
 | ------- |
