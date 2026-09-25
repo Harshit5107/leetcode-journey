@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/Harshit5107/leetcode-journey/tree/master/3295-report-spam-message) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit5107/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harshit5107/leetcode-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3843-first-element-with-unique-frequency](https://github.com/Harshit5107/leetcode-journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Harshit5107/leetcode-journey/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit5107/leetcode-journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harshit5107/leetcode-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harshit5107/leetcode-journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit5107/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/Harshit5107/leetcode-journey/tree/master/3959-check-good-integer) |
