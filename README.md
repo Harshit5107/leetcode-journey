@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1019-next-greater-node-in-linked-list) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Harshit5107/leetcode-journey/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1408-string-matching-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harshit5107/leetcode-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Harshit5107/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Harshit5107/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/Harshit5107/leetcode-journey/tree/master/0942-di-string-match) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Harshit5107/leetcode-journey/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshit5107/leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
