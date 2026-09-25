@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Harshit5107/leetcode-journey/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit5107/leetcode-journey/tree/master/2733-neither-minimum-nor-maximum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2716-minimize-string-length](https://github.com/Harshit5107/leetcode-journey/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshit5107/leetcode-journey/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
