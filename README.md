@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Harshit5107/leetcode-journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Harshit5107/leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Harshit5107/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/Harshit5107/leetcode-journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Harshit5107/leetcode-journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0392-is-subsequence) |
