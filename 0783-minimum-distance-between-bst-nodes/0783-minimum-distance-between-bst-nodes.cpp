@@ -12,20 +12,25 @@
 class Solution {
 public:
 
-    void inorder(TreeNode* root,vector<int>& nums){
-        if(root==NULL) return;
-        inorder(root->left,nums);
-        nums.push_back(root->val);
-        inorder(root->right,nums);
-    }
+    TreeNode* prev=NULL;
     int minDiffInBST(TreeNode* root) {
-        vector<int> nums;
-        inorder(root,nums);
-
         int ans=INT_MAX;
-        for(int i=1;i<nums.size();i++){
-            ans=min(ans,nums[i]-nums[i-1]);
+        if(root->left){
+            int leftmin=minDiffInBST(root->left);
+            ans=min(ans,leftmin);
         }
+
+        if(prev!=NULL){
+            ans=min(ans,abs(prev->val-root->val));
+        }
+
+        prev=root;
+
+        if(root->right){
+            int rightmin=minDiffInBST(root->right);
+            ans=min(ans,rightmin);
+        }
+
 
         return ans;
     }
