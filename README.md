@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit5107/leetcode-journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Harshit5107/leetcode-journey/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshit5107/leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/Harshit5107/leetcode-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1929-concatenation-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Harshit5107/leetcode-journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Harshit5107/leetcode-journey/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit5107/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit5107/leetcode-journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Harshit5107/leetcode-journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Harshit5107/leetcode-journey/tree/master/2085-count-common-words-with-one-occurrence) |
