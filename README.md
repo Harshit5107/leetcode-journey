@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshit5107/leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshit5107/leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit5107/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0283-move-zeroes) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshit5107/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/0402-remove-k-digits) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Harshit5107/leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
 |  |
