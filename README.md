@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit5107/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Harshit5107/leetcode-journey/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Harshit5107/leetcode-journey/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Harshit5107/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0804-unique-morse-code-words](https://github.com/Harshit5107/leetcode-journey/tree/master/0804-unique-morse-code-words) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Harshit5107/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Harshit5107/leetcode-journey/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit5107/leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
