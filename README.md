@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harshit5107/leetcode-journey/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harshit5107/leetcode-journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshit5107/leetcode-journey/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Harshit5107/leetcode-journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Harshit5107/leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0088-merge-sorted-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Harshit5107/leetcode-journey/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Harshit5107/leetcode-journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Harshit5107/leetcode-journey/tree/master/0504-base-7) |
