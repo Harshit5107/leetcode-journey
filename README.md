@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harshit5107/leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshit5107/leetcode-journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harshit5107/leetcode-journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit5107/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harshit5107/leetcode-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Harshit5107/leetcode-journey/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Harshit5107/leetcode-journey/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Harshit5107/leetcode-journey/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
