@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Harshit5107/leetcode-journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Harshit5107/leetcode-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Harshit5107/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Harshit5107/leetcode-journey/tree/master/0260-single-number-iii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit5107/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Harshit5107/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harshit5107/leetcode-journey/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshit5107/leetcode-journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit5107/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harshit5107/leetcode-journey/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Harshit5107/leetcode-journey/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/Harshit5107/leetcode-journey/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/Harshit5107/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshit5107/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Harshit5107/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit5107/leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Harshit5107/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Harshit5107/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Harshit5107/leetcode-journey/tree/master/0513-find-bottom-left-tree-value) |
