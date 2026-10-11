@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit5107/leetcode-journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harshit5107/leetcode-journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Harshit5107/leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harshit5107/leetcode-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harshit5107/leetcode-journey/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Memoization
 |  |
 | ------- |
