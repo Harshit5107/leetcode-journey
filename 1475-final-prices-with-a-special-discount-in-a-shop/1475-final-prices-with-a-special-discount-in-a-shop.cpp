@@ -13,7 +13,7 @@ public:
             if(st.empty()){
                 ans[i]=prices[i];
             }else{
-                ans[i]=abs(st.top()-prices[i]);
+                ans[i]=prices[i]-st.top();
             }
 
             st.push(prices[i]);
