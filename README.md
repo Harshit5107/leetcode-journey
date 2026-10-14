@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Harshit5107/leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Harshit5107/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshit5107/leetcode-journey/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Harshit5107/leetcode-journey/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit5107/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Harshit5107/leetcode-journey/tree/master/0605-can-place-flowers) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harshit5107/leetcode-journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harshit5107/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Harshit5107/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Harshit5107/leetcode-journey/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit5107/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit5107/leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/Harshit5107/leetcode-journey/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
