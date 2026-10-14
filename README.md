@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harshit5107/leetcode-journey/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit5107/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Harshit5107/leetcode-journey/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Harshit5107/leetcode-journey/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Harshit5107/leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Harshit5107/leetcode-journey/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Harshit5107/leetcode-journey/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Harshit5107/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Harshit5107/leetcode-journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit5107/leetcode-journey/tree/master/2733-neither-minimum-nor-maximum) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Harshit5107/leetcode-journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harshit5107/leetcode-journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit5107/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Harshit5107/leetcode-journey/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Harshit5107/leetcode-journey/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Harshit5107/leetcode-journey/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Harshit5107/leetcode-journey/tree/master/0942-di-string-match) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Harshit5107/leetcode-journey/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshit5107/leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Harshit5107/leetcode-journey/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harshit5107/leetcode-journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
 |  |
