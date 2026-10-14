@@ -10,6 +10,8 @@ public:
             int m=score[i];
             int maximum=i;
             for(int j=0;j<score.size();j++){
+                if(score[j] == -1)
+                    continue;
                 if(m<score[j]){
                     maximum=j;
                     m=score[j];
